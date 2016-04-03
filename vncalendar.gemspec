@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Man Vuong"]
   spec.email         = ["thanhman.gm@gmail.com"]
 
-  spec.summary       = %q{Vietnamese date converter. A Ruby port of https://github.com/vanng822/vncalendar in Golang}
+  spec.summary       = %q{Vietnamese date converter.}
   spec.description   = %q{Vietnamese date converter. A Ruby port of https://github.com/vanng822/vncalendar in Golang}
   spec.homepage      = "https://github.com/kidlab/vncalendar-ruby"
   spec.license       = "MIT"
