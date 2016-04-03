@@ -1,6 +1,6 @@
 # Vncalendar
 
-[![Build Status](https://travis-ci.org/kidlab/vncalendar-ruby.svg?branch=master)](https://travis-ci.org/kidlab/vncalendar-ruby)
+[![Build Status](https://travis-ci.org/kidlab/vncalendar-ruby.svg?branch=master)](https://travis-ci.org/kidlab/vncalendar-ruby) [![Gem Version](https://badge.fury.io/rb/vncalendar.svg)](https://badge.fury.io/rb/vncalendar)
 
 ## Installation
 
