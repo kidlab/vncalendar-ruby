@@ -22,7 +22,7 @@ Or install it yourself as:
 
 - Convert solar date or Gregorian date - our regular date, to lunar date:
 
-```
+```ruby
 UTC_OFFSET = 7 # Asian/Ho_Chi_Minh
 Vncalendar::Converter.solar_to_lunar(Date.new(2014, 9, 23), UTC_OFFSET)
 ```
