@@ -54,7 +54,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/kidlab
 
 ## Credit
 
-This code is ported from this repo https://github.com/vanng822/vncalendar - by Nguyen Van Nhu (@vanng822), which is originally based on the [Algorithms for computing lunar calendar](http://www.informatik.uni-leipzig.de/~duc/amlich/calrules_en.html) ([Vietnamese version](http://www.informatik.uni-leipzig.de/~duc/amlich/calrules.html)) by Ho Ngoc Duc.
+This code is ported from this repo https://github.com/vanng822/vncalendar - by Nguyen Van Nhu ([@vanng822](https://github.com/vanng822)), which is originally based on the [Algorithms for computing lunar calendar](http://www.informatik.uni-leipzig.de/~duc/amlich/calrules_en.html) ([Vietnamese version](http://www.informatik.uni-leipzig.de/~duc/amlich/calrules.html)) by Ho Ngoc Duc.
 
 ## License
 
